@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/DT-team-project/",
+    "build": "vite build --base=/91_html-css_Just-me-TTA/",
     "preview": "vite preview"
   },
   "devDependencies": {
